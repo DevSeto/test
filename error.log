@@ -1,0 +1,182 @@
+[Fri Mar 02 15:51:24 2012] [error] [client 127.0.0.1] File does not exist: w:/home/sergius.test/www/favicon.ico
+[Fri Mar 02 15:51:46 2012] [error] [client 127.0.0.1] File does not exist: w:/home/sergius.test/www/favicon.ico
+[Fri Mar 02 15:51:58 2012] [error] [client 127.0.0.1] client denied by server configuration: w:/home/sergius.test/www
+[Fri Mar 02 15:51:58 2012] [error] [client 127.0.0.1] client denied by server configuration: w:/home/sergius.test/www/favicon.ico
+[Fri Mar 02 15:52:57 2012] [error] [client 127.0.0.1] File does not exist: w:/home/sergius.test/www/favicon.ico
+[Fri Mar 02 16:32:20 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:32:37 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:33:19 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:33:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:33:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:33:38 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:43:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:43:27 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:43:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:44:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:44:54 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:45:06 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:45:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:46:17 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:47:56 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:48:06 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 16:49:01 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:04:19 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:05:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:06:32 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:07:05 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:07:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:12:38 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:12:58 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:14:47 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:17:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:17:56 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:18:23 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:18:31 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:19:08 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:19:10 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:19:17 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:19:19 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:19:35 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:23:16 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:23:41 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:23:45 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:23:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:24:13 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:24:20 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:24:44 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:25:18 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:25:32 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:26:10 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:26:27 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:30:20 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:31:24 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:31:59 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:32:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:33:17 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:33:25 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:33:43 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:33:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:34:05 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:34:18 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:34:20 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:34:39 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:35:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:35:35 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:35:53 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:36:08 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:36:20 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:36:23 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:37:44 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:38:04 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:38:24 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:38:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:38:40 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:38:50 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:44:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:45:18 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:45:36 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:45:39 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:45:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:46:06 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:47:47 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:48:14 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:48:17 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:48:28 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:51:57 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:57:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 17:58:13 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:00:03 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:00:24 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:00:35 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:00:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:00:56 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:02:33 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:03:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:03:59 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:04:35 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:04:42 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:04:48 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:05:17 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:05:50 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:09 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:15 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:35 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:43 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:06:50 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:08:22 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:08:30 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:08:50 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:10:22 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:10:56 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:12:54 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:13:04 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:14:34 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:15:42 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:16:27 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:16:37 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:05 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:14 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:21 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:27 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:33 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:17:40 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:01 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:18 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:27 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:33 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:38 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:42 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:18:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:03 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:08 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:14 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:18 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:23 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:36 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:19:59 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:20:04 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:20:10 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:20:24 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:20:31 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:21:11 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:21:13 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:21:19 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:23:30 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:23:38 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:23:55 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:24:36 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:24:49 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:27:36 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:27:36 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:27:39 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/asdsd
+[Fri Mar 02 18:27:39 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:27:40 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:27:40 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:29 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/asdsd
+[Fri Mar 02 18:28:29 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:30 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:28:30 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:33 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/asdsd
+[Fri Mar 02 18:28:33 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:33 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:28:33 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:46 2012] [alert] [client 127.0.0.1] w:/home/wks.test/www/.htaccess: Unsupported HTTP response code /404.php
+[Fri Mar 02 18:28:46 2012] [alert] [client 127.0.0.1] w:/home/wks.test/www/.htaccess: Unsupported HTTP response code /404.php
+[Fri Mar 02 18:28:54 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/asdsd
+[Fri Mar 02 18:28:54 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:28:54 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:28:54 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:29:01 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:29:01 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:29:08 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:29:08 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:29:10 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:29:10 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:29:46 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:29:46 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Fri Mar 02 18:29:52 2012] [error] [client 127.0.0.1] File does not exist: w:/home/wks.test/www/favicon.ico
+[Fri Mar 02 18:29:52 2012] [error] [client 127.0.0.1] Invalid error redirection directive: 
+[Mon Mar 05 12:31:06 2012] [error] [client 127.0.0.1] Directory index forbidden by rule: w:/home/wks.test/www/view/
+[Mon Mar 05 12:31:19 2012] [error] [client 127.0.0.1] Directory index forbidden by rule: w:/home/wks.test/www/view/
+[Mon Mar 12 16:36:49 2012] [error] [client 127.0.0.1] Directory index forbidden by rule: w:/home/wks.test/www/templates/

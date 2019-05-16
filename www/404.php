@@ -1,0 +1,1 @@
+<p style="text-align:center; font-size: 30px;">Error 404: page not found</p>
